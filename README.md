@@ -43,6 +43,6 @@ Bu proje, gerçek zamanlı olarak kamera görüntüsünden alınan yüzün **ger
 
 ### ScreenShots 
 
-<img src="screenshots/demo" alt="demo" width="400"/>
+<img src="screenshots/demo.png" alt="demo" width="400"/>
 
 

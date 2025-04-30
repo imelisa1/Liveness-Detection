@@ -24,6 +24,10 @@ Bu proje, gerçek zamanlı olarak kamera görüntüsünden alınan yüzün **ger
 - 🎯 **Optimal Threshold:** `0.6793`  
   *(Model çıktısı bu eşikten büyükse "Live", değilse "Spoof" olarak kabul edilir.)*
 
+  <img src="screenshots/class_weight_training.png" alt="accuracy-loss" width="400"/>
+  <img src="screenshots/Ekran görüntüsü 2025-04-25 231312.png" alt="accuracy-loss continued" width="400"/>
+  <img src="screenshots/Ekran görüntüsü 2025-04-26 000848.png" alt="ROC curve" width="400"/>
+
 #### 📋 Classification Report
 
 | Sınıf  | Precision | Recall | F1-Score | Support |
